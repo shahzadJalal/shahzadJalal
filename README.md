@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="vertical-align:middle; margin-right: 20px; border-radius: 8px; padding: 5px; background-color: #f7df1e;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="40" style="vertical-align:middle; margin-right: 20px; border-radius: 8px; padding: 5px; background-color: #f7df1e;"/>
   </a>
   <a href="https://nodejs.org" style="text-decoration:none;">
     <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40" style="vertical-align:middle; margin-right: 20px; border-radius: 8px; padding: 5px; background-color: #339933;"/>
